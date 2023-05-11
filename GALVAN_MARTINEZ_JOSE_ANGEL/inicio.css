@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: khaki;
+}
+#titulo{
+    color: olive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#nombre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+a{
+    background-color: olivedrab;
+    color: white;
+    padding: 20px 16px 20px 16px;
+    text-align: center;
+    float: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    
+}
+nav ul li{
+    float: inline-start;
+    list-style: none;
+    margin: 10px; 
+    line-height: 30px; 
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#desarrollo{
+	height: 40%;
+	background-color: lightskyblue;
+	padding: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+nav{
+    background-color: darkgrey;
+    height: 50px;
+    border-bottom: 1px solid black;
+}
+.article{
+    color: seagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 0.5%;
+}
+#imagen{
+    text-align: center;
+}
